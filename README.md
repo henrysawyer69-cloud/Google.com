@@ -1,3 +1,3 @@
 # Google.com
-[google.com](URL)
+[http://www.google.com/?safe=active&ssui=on]
 
